@@ -1,4 +1,4 @@
-<form action="action_page.php">
+ <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>This has been a great but a litttle challenging course. It is well worth it though.</p>
