@@ -32,7 +32,7 @@
   </div>
 
    <h2> This truly has been an experience with CI/CD pipeline project implementation. I feel I am getting more comfortable
-        with it </h2>
+        with every bit of this </h2>
    <h1> Thank you, Happy Learning </h1>
   
 </form>
