@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="#">Sign in!</a>.</p>
   </div>
 
    <h2> This truly has been an experience with CI/CD pipeline project implementation. I feel I am getting more comfortable
